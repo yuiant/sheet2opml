@@ -1,5 +1,5 @@
 # sheet2opml
-transform a csv file from a google sheet which has a  nesting structure  into a opml file
+transform a csv file with a  nesting structure  into a opml file, for mubu import
 
 ## dependency:
 - pandas
@@ -9,3 +9,6 @@ transform a csv file from a google sheet which has a  nesting structure  into a 
 ```
 python3 csv2opml.py your_csv_file
 ```
+
+## 详细教程
+- coming soon.
