@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<opml version="2.0">
+		<head>
+			<title>testopml</title>
+		</head>
+		<body>
+			<outline text="a">
+				<outline text="a1">
+					<outline text="a11"/>
+					<outline text="a12"/>
+				</outline>
+				<outline text="a2">
+					<outline text="a21"/>
+					<outline text="a22"/>
+				</outline>
+			</outline>
+			<outline text="b">
+				<outline text="b1">
+					<outline text="b11"/>
+				</outline>
+				<outline text="b2">
+					<outline text="b22"/>
+				</outline>
+			</outline>
+			<outline text="c">
+				<outline text="c1">
+					<outline text="c11"/>
+				</outline>
+				<outline text="c2">
+					<outline text="c21"/>
+					<outline text="c22"/>
+				</outline>
+			</outline>
+		</body>
+	</opml>
